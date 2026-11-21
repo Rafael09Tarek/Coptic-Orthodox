@@ -9,38 +9,9 @@
 
 </div>
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="README.ar.md">
-        <h2>🇪🇬</h2>
-        <strong>العربية</strong><br/>
-        <sub>استكشف الموقع بالعربية</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="README.en.md">
-        <h2>🇬🇧</h2>
-        <strong>English</strong><br/>
-        <sub>Explore in English</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="README.fr.md">
-        <h2>🇫🇷</h2>
-        <strong>Français</strong><br/>
-        <sub>Découvrir en français</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="README.de.md">
-        <h2>🇩🇪</h2>
-        <strong>Deutsch</strong><br/>
-        <sub>Auf Deutsch entdecken</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+| 🇪🇬 **العربية** | 🇬🇧 **English** | 🇫🇷 **Français** | 🇩🇪 **Deutsch** |
+|:---:|:---:|:---:|:---:|
+| [🌍 افتح الصفحة العربية](README.ar.md) | [🌍 Open English page](README.en.md) | [🌍 Ouvrir la page française](README.fr.md) | [🌍 Deutsche Seite öffnen](README.de.md) |
 
 ---
 
