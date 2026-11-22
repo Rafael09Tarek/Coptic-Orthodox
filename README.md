@@ -36,7 +36,7 @@ Everything is presented from a Coptic Orthodox perspective, in a calm and easy-t
 | 🔎 **Search** | Quick search across the capsules |
 | ❤️ **Favorites** | Save capsules on your own device and come back to them |
 | 🎲 **Random capsule** | Discover something new with one tap |
-| 🌗 **Light & dark** | Two themes, in navy and gold |
+| 🌗 **Light & dark** | Two themes in navy and gold, with purple accents in the light theme |
 | 📱 **Any screen** | Designed for phones, tablets, and desktops |
 
 ## 🌐 Languages
