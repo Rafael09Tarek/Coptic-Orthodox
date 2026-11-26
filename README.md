@@ -116,6 +116,7 @@ Just click **Open** in the row you want. The page opens in your browser and work
 | v26 | Browse by Coptic months and occasions, 36 occasions (تنقل بين الأشهر القبطية والمناسبات، 36 مناسبة) | [Open](https://rafael09tarek.github.io/Coptic-Orthodox/versions/v26.html) |
 | v27 | Uploaded; not yet described in the written history (مرفوعة ولم تُوصَف بعد في السجل المكتوب) | [Open](https://rafael09tarek.github.io/Coptic-Orthodox/versions/v27.html) |
 | v28 | Code-only changes; capsule and image counts unchanged, same as the live site (تغييرات في الكود فقط، أعداد الكبسولات والصور ثابتة، وهي نفس الموقع الحالي) | [Open](https://rafael09tarek.github.io/Coptic-Orthodox/versions/v28.html) |
+| v29 | +2 images (111 total) (+2 صورة (111)) | [Open](https://rafael09tarek.github.io/Coptic-Orthodox/versions/v29.html) |
 
 > Older versions are kept as they were, so they may look or behave differently from the current site. (النسخ القديمة محفوظة كما كانت، فقد تختلف في الشكل والسلوك عن الموقع الحالي.)
 
