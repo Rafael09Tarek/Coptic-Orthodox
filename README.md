@@ -118,6 +118,7 @@ Just click **Open** in the row you want. The page opens in your browser and work
 | v28 | Code-only changes; capsule and image counts unchanged, same as the live site (تغييرات في الكود فقط، أعداد الكبسولات والصور ثابتة، وهي نفس الموقع الحالي) | [Open](https://rafael09tarek.github.io/Coptic-Orthodox/versions/v28.html) |
 | v29 | +2 images (111 total) (+2 صورة (111)) | [Open](https://rafael09tarek.github.io/Coptic-Orthodox/versions/v29.html) |
 | v30 | تغييرات في الكود فقط، أعداد الكبسولات والصور ثابتة | [Open](https://rafael09tarek.github.io/Coptic-Orthodox/versions/v30.html) |
+| v31 | تغييرات في الكود فقط، أعداد الكبسولات والصور ثابتة | [Open](https://rafael09tarek.github.io/Coptic-Orthodox/versions/v31.html) |
 
 > Older versions are kept as they were, so they may look or behave differently from the current site. (النسخ القديمة محفوظة كما كانت، فقد تختلف في الشكل والسلوك عن الموقع الحالي.)
 
