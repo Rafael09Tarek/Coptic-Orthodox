@@ -18,12 +18,9 @@
 
 ## ✨ About the project
 
-**Coptic Orthodox** brings two projects together in one website:
+**Chapter Journey** is the main Bible-reading channel and its companion website, guiding readers through Scripture one chapter at a time. It explores biblical events, people, context, and spiritual messages from a Coptic Orthodox perspective, helping connect the biblical text with everyday life.
 
-- **Spiritual Capsule** — short spiritual capsules, organized by topic, with multi-part series.
-- **Chapter Journey** — a Bible reading path that moves through the Scriptures chapter by chapter.
-
-Everything is presented from a Coptic Orthodox perspective, in a calm and easy-to-read experience.
+**Spiritual Capsule** began as an independent WhatsApp channel and has become an important feature within Chapter Journey. It continues as a dedicated space for short spiritual and educational content alongside the channel's other sections. More than 440 followers are part of the journey.
 
 ## 🌿 What you'll find
 
