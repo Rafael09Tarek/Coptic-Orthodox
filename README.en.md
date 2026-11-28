@@ -3,7 +3,10 @@
 ## 🇬🇧 English
 
 ### About the Project
-**Spiritual Capsule × Chapter Journey** is a digital companion to a WhatsApp channel, created to make spiritual reading, biblical knowledge, and Coptic Orthodox Church content easy to explore. It covers the Bible, Christian faith, and Church history from a Coptic Orthodox perspective through individual capsules, connected multi-part series, dedicated topic sections, and interactive activities.
+
+**Chapter Journey** is the main Bible-reading channel and its companion website, guiding readers through Scripture one chapter at a time. It explores biblical events, people, context, and spiritual messages from a Coptic Orthodox perspective, helping connect the biblical text with everyday life.
+
+**Spiritual Capsule** began as an independent WhatsApp channel and has become an important feature within Chapter Journey. It continues as a dedicated space for short spiritual and educational content alongside the channel's other sections. More than 440 followers are part of the journey.
 
 ### ✨ Explore the Content
 - **Spiritual Capsules:** Browse a library of short-form content on faith and Christian life.
