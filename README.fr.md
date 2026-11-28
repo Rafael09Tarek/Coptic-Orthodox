@@ -3,7 +3,10 @@
 ## 🇫🇷 Français
 
 ### À propos du projet
-**Capsule Spirituelle × Voyage du Chapitre** est une plateforme numérique complémentaire à une chaîne WhatsApp. Elle vise à rendre accessibles la lecture spirituelle, la connaissance biblique et le contenu de l’Église copte orthodoxe. Elle aborde la Bible, la foi chrétienne et l’histoire de l’Église dans une perspective copte orthodoxe, au moyen de capsules individuelles, de séries en plusieurs parties, de rubriques thématiques et d’activités interactives.
+
+**Voyage du Chapitre** est la chaîne principale et son site compagnon. Elle invite à parcourir la Bible chapitre après chapitre, à découvrir les événements, les personnages, le contexte et les messages spirituels des Écritures, puis à relier cette Parole à la vie quotidienne dans la perspective de l’Église copte orthodoxe.
+
+**Capsule Spirituelle** a commencé comme une chaîne WhatsApp indépendante. Elle est devenue une rubrique importante de Voyage du Chapitre, où son contenu spirituel et éducatif se poursuit aux côtés des autres rubriques de la chaîne. Plus de 440 abonnés prennent part à ce parcours.
 
 ### ✨ Explorer le contenu
 - **Capsules spirituelles :** parcourez une bibliothèque de courts contenus sur la foi et la vie chrétienne.
