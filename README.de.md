@@ -3,7 +3,10 @@
 ## 🇩🇪 Deutsch
 
 ### Über das Projekt
-**Geistliche Kapsel × Kapitelreise** ist eine digitale Ergänzung zu einem WhatsApp-Kanal. Die Plattform macht geistliche Impulse, biblisches Wissen und Inhalte der koptisch-orthodoxen Kirche leicht zugänglich. Sie behandelt die Bibel, den christlichen Glauben und die Kirchengeschichte aus koptisch-orthodoxer Perspektive – in einzelnen geistlichen Beiträgen, mehrteiligen Themenreihen, eigenen Rubriken und interaktiven Angeboten.
+
+**Kapitelreise** ist der Hauptkanal mit einer begleitenden Website. Sie lädt dazu ein, die Bibel Kapitel für Kapitel zu entdecken, biblische Ereignisse, Personen, Zusammenhänge und geistliche Botschaften zu verstehen und das Wort Gottes aus koptisch-orthodoxer Perspektive mit dem Alltag zu verbinden.
+
+**Geistliche Kapsel** begann als eigenständiger WhatsApp-Kanal und ist inzwischen eine wichtige Rubrik innerhalb der Kapitelreise. Dort werden die geistlichen und lehrreichen Inhalte als fester Bestandteil des Kanals neben den weiteren Rubriken fortgeführt. Mehr als 440 Follower begleiten diese Reise.
 
 ### ✨ Inhalte entdecken
 - **Geistliche Impulse:** Entdecke eine Sammlung kurzer Beiträge über Glauben und christliches Leben.
